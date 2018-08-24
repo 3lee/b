@@ -218,7 +218,7 @@ Home sections
 }
 
 .section-heading p{
-	color: #999;
+	color: #333;
 }
 
 /* --- section bg var --- */
@@ -743,8 +743,16 @@ more media queries
 
 @media (max-width:992px) {
 
+	.service.carousel .item h4{
+		color:#999;
+		background-color: #eee;
+		padding: 4px 0;
+		font-size:13px;
+	}
+
 	.service.carousel .item h4, .service.carousel .item p{
 		text-align: center;
+			color:#999;
 	}
 
 	.service p{
