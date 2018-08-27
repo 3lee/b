@@ -376,6 +376,14 @@ Team
 /* ================================
 Services
 ================================= */
+
+.service.carousel h4{
+	font-size: 18px;
+}
+.service.carousel p {
+
+	color: #666;
+}
 .service.carousel h4,.service.carousel p {
 	text-align: left;
 }
