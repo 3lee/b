@@ -473,9 +473,12 @@ Works
 	display: inline-block;
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
-	height: 250px;
+	height: 180px;
 }
+.og-grid li > a img{
+ height: 150px
 
+}
 .og-grid li > a,
 .og-grid li > a img {
 	border: none;
