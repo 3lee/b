@@ -258,7 +258,25 @@ Parallax
 #parallax2{
 	background-image: url(../img/parallax/2.jpg);
 }
+#parallax1  a.alink{
+ font-size:16px;
+padding:10px 15px;
+ border-radius: 3px;
+ text-decoration: none;
+  display: block;
+	width:20%;
+	 margin: 0 auto;
+	 font-weight: 600;
+}
+#parallax1 .lead a.alink:link,#parallax1 .lead a.alink:visited{
+		color:#000; background: #fff;
+		border: 1px solid #fff;
 
+}
+#parallax1 .lead a.alink:hover{
+		color:#fff;  background: #000;
+		border: 1px solid #fff;
+}
 
 /* ================================
 Intro
