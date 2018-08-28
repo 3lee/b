@@ -458,10 +458,10 @@ Services
 }
 
 .service .uu {
-	width: 70%;
+	width: auto;
 	float: left;
 		list-style: none;
-	-webkit-padding-start: 10px;
+	-webkit-padding-start: 0px;
 }
 
 .service .uu li{
