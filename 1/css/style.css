@@ -796,7 +796,6 @@ more media queries
 
 	.service.carousel .item h4{
 		color:#999;
-		background-color: #eee;
 		padding: 4px 0;
 		font-size:13px;
 	}
@@ -807,7 +806,7 @@ more media queries
 	}
 
 	.service p{
-			margin-bottom: 60px;
+			margin-bottom: 20px;
 	}
 	.og-expander {
 		background: transparent;
