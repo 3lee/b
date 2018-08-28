@@ -459,7 +459,6 @@ Services
 
 .service .uu {
 	width: auto;
-	float: left;
 		list-style: none;
 	-webkit-padding-start: 0px;
 }
@@ -469,7 +468,7 @@ Services
 	float: left;
 	border-radius: 3px;
 	background-color: #f0f0f0;
-	width: 45%;
+	width: 130px;
 	height: 60px;
 	line-height: 60px;
 	text-align: center;
