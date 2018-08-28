@@ -491,10 +491,10 @@ Works
 	display: inline-block;
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
-	height: 180px;
+	height: 125px;
 }
 .og-grid li > a img{
- height: 150px
+ height: 100px
 
 }
 .og-grid li > a,
