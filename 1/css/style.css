@@ -458,7 +458,7 @@ Services
 }
 
 .service .uu {
-	width: auto;
+	width: 100%;
 		list-style: none;
 	-webkit-padding-start: 0px;
 }
@@ -467,12 +467,13 @@ Services
 	list-style: none;
 	display:inline-flex;
 	border-radius: 3px;
-	background:#00c1c1;
-	width: 140px;
-	height: 60px;
-	font-size：2em;
+	background:#87b4f8;
+	width:;
+	height: 90px;
+	font-size: 20px;
 	color: #fff;
-	margin: 0 4px 8px 4px;
+	padding: 0 10px;
+	margin: 0 10px 8px 4px;
   justify-content: center;
 	align-items: center;
 }
