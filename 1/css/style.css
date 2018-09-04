@@ -467,10 +467,10 @@ Services
 	list-style: none;
 	display:inline-flex;
 	border-radius: 3px;
-	background:#87b4f8;
-	width:;
+	background:#00c1c1;
+	width:30%;
 	height: 90px;
-	font-size: 20px;
+	font-size: 0.9em;
 	color: #fff;
 	padding: 0 10px;
 	margin: 0 10px 8px 4px;
