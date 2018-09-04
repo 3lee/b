@@ -465,17 +465,16 @@ Services
 
 .service .uu li{
 	list-style: none;
-	display: inline-flex;
+	display:inline-flex;
 	border-radius: 3px;
 	background:#00c1c1;
-	width: 120px;
-	padding-left: 15px;
+	width: 140px;
 	height: 60px;
-	line-height: 60px;
 	font-size：2em;
 	color: #fff;
-	text-align: center;
-	margin: 0 0 4px 4px;
+	margin: 0 4px 8px 4px;
+  justify-content: center;
+	align-items: center;
 }
 
 /* ================================
@@ -803,8 +802,11 @@ more media queries
 
 	.service.carousel .item h4, .service.carousel .item p{
 		text-align: center;
-			color:#999;
+			color:#000;
 	}
+	.colo-red{
+				color:red;
+		}
 
 	.service p{
 			margin-bottom: 20px;
